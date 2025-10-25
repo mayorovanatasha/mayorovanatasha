@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-## 🌐 Портфолио
-👉 [Мой сайт](https://natashamayorova.ru)
+👉 [natashamayorova.ru](https://natashamayorova.ru)
